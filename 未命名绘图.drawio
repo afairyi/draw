@@ -1,51 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T12:09:11.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JSWfBURHF19AEQaUB1RK" version="24.0.4" type="github">
-  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1101" dy="552" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-03-20T13:52:43.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.4" etag="M9YpH7Qmcq6kM64keXvV" type="github">
+  <diagram name="第 1 页" id="hFtvhVITt7Qrf6QaC_Da">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据对象&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="130" width="431" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据元素&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="229" y="181" width="101" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="76" width="431" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据元素&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="340" y="181" width="101" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据元素&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="450" y="181" width="101" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据元素&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="560" y="181" width="101" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据项1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="230" y="231" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据项2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="280" y="231" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据项1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="341" y="231" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据项2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="391" y="231" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据项1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="450" y="231" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据项2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="500" y="231" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据项1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="561" y="231" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91t9DF5nBJnWNlOoZW5T-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据项2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="611" y="231" width="50" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
